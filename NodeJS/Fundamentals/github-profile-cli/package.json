@@ -1,0 +1,8 @@
+{
+  "name": "github-profile-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
