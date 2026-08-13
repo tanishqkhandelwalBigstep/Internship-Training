@@ -27,3 +27,5 @@ cache/
 # Temporary files
 tmp/
 temp/
+
+.DS_Store
